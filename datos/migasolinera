@@ -1,0 +1,13 @@
+tipo:Energía:15000:100.0
+tipo:Motor:10000:50.0
+tipo:Energíaplus:30000:200.0
+tipo:Estrellaplus:20000:250.0
+surtidor:María:Energía:0.0:Motor:0.0:Energíaplus:0.0:Estrellaplus:0.0
+surtidor:Pepito:Energía:0.0:Motor:0.0:Energíaplus:0.0:Estrellaplus:0.0
+surtidor:Juan:Energía:0.0:Motor:0.0:Energíaplus:0.0:Estrellaplus:0.0
+surtidor:Andrés:Energía:0.0:Motor:0.0:Energíaplus:0.0:Estrellaplus:0.0
+empleado:María:0
+empleado:Angela:0
+empleado:Juan:0
+empleado:Andrés:0
+empleado:Pepito:0
